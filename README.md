@@ -1,7 +1,7 @@
-Proyecto Final Econometría, MAF EGADE S25
+## Proyecto Final Econometría, MAF EGADE S25
 Valeria Acosta A00818610
 
-Descripción
+## Descripción
 Análisis econométrico de un portafolio de 11 acciones (NVDA como variable dependiente) usando regresión lineal, panel data, series de tiempo y GARCH.
 
 ## Archivos
